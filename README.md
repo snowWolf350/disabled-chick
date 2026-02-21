@@ -8,3 +8,10 @@ This was my first project that i had completed from the start phase all the way 
 3.Adding some basic physics and detection systems<br>
 4.Working with UI<br>
 5.saving using playerPrefs<br>
+
+<b>Images of the project :</b>
+<p align = "center">
+<img src="pic3.jpeg" alt = "not working" width="500">
+<img src="pic2.jpeg" alt = "not working" width="500">
+<img src="pic1.jpeg" alt = "not working" width="500">
+</p>
